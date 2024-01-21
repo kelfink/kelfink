@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on projects for [Code For Sacramento](https://github.com/code4sac)
-- 🌱 I’m currently learning Vue and GPT-3
+- 🔭 I’m currently working on projects to automate social media posts, learning aws full stack work.
+- At work I'm building skills in AWS, Akka, Spring-Boot, Helm+Kubernetes, and SIP fundamentals for asterisk and kamailiio
